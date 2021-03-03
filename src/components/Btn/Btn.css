@@ -1,0 +1,19 @@
+
+
+.componenteBoton {
+    width: 4em;
+    height: 2em;
+    margin-right: 0.5em;
+
+    border-radius: 0.3em;
+
+    transition: 0.5s;
+
+    background-color: lightgoldenrodyellow;
+}
+
+.componenteBoton:hover {
+    transition: 0.5s;
+    background-color: yellow;
+
+}

@@ -1,0 +1,13 @@
+
+
+.componenteHeader {
+    height: 8em;
+
+    background-color: lightgreen;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
